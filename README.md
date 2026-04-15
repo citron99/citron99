@@ -20,45 +20,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Кейсы и проекты
-
-### 🔧 DevOps / Infrastructure
-
-#### 🟢 Terraform AWS Utilities
-📌 Задача: упростить управление AWS-инфраструктурой  
-⚙️ Решение: набор утилит для автоматизации деплоя и конфигурации  
-📊 Результат:
-- снижение ручной работы  
-- ускорение развертывания инфраструктуры  
-- удобство масштабирования  
-
----
-
-#### 🟢 Kubergrunt
-📌 Задача: упростить работу с Kubernetes + Terraform  
-⚙️ Решение: CLI-инструмент для DevOps  
-📊 Результат:
-- уменьшение количества ошибок  
-- ускорение работы инженеров  
-- унификация процессов  
-
----
-
-#### 🟢 Terratest
-📌 Задача: тестирование инфраструктуры (IaC)  
-⚙️ Решение: автоматизированные тесты Terraform  
-📊 Результат:
-- стабильные деплои  
-- снижение рисков  
-- контроль качества инфраструктуры  
-
----
 
 ### 🤖 AI и автоматизация
 
@@ -116,7 +83,11 @@
 ---
 
 ## 🤝 Контакты
+
+
 Telegram https://t.me/ai_prompt_dmitry
+
+
 e-mail a08037@gmail.com
 
 Открыт к:
