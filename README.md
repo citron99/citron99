@@ -1,6 +1,4 @@
-# 👋 Prompt Engineer
-
-🚀 AI / Automation / DevOps
+# 👋 🚀 AI / Automation / DevOps
 
 
 Создаю системы, которые **реально работают и приносят результат**
