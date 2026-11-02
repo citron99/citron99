@@ -1,4 +1,4 @@
-# 👋 🚀 AI / Automation / DevOps
+# 👋 🚀 AI / Automation / n8n / DevOps
 
 
 Создаю системы, которые **реально работают и приносят результат**
