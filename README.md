@@ -83,7 +83,7 @@
 ## 🤝 Контакты
 
 
-Telegram https://t.me/ai_prompt_dmitry
+Telegram @citron99
 
 
 e-mail a08037@gmail.com
